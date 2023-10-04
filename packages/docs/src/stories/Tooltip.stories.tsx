@@ -3,7 +3,7 @@ import type { Meta, StoryObj } from '@storybook/react'
 
 
 export default {
-  title: 'Challange/Tooltip',
+  title: 'Challenge/Tooltip',
   component: Tooltip,
   args: {
     text: '21 de Outubro - Indisponível',
